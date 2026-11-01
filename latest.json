@@ -1,11 +1,11 @@
 {
  "app": "PaletteStudio",
- "version": "0.2.1",
+ "version": "0.2.2",
  "runtimeVersion": "45.2.0",
- "file": "PaletteStudio-0.2.1.palettestudio-update",
- "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.1.palettestudio-update",
+ "file": "PaletteStudio-0.2.2.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.2.palettestudio-update",
  "page": "https://github.com/phkdow/palette-studio-updates",
- "size": 1467549,
- "sha256": "9b4ed52d35ca19eae2267cb539c642a5d52a7910c5a316633699667dc99aa3bb",
- "notes": "・自動アップデートの動作確認用の版です（見た目や機能の変更はありません）。"
+ "size": 1660153,
+ "sha256": "233015d0a8dc4cf984cf455168493dbfc8842b62b18c88874657ca4dc908ac7b",
+ "notes": "・ヘルプ → バージョン情報・更新履歴 で、いまのバージョンと更新履歴を見られるようにしました。"
 }
