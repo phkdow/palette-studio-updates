@@ -1,11 +1,11 @@
 {
  "app": "PaletteStudio",
- "version": "0.2.2",
+ "version": "0.2.3",
  "runtimeVersion": "45.2.0",
- "file": "PaletteStudio-0.2.2.palettestudio-update",
- "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.2.palettestudio-update",
+ "file": "PaletteStudio-0.2.3.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.3.palettestudio-update",
  "page": "https://github.com/phkdow/palette-studio-updates",
- "size": 1660153,
- "sha256": "233015d0a8dc4cf984cf455168493dbfc8842b62b18c88874657ca4dc908ac7b",
- "notes": "・ヘルプ → バージョン情報・更新履歴 で、いまのバージョンと更新履歴を見られるようにしました。"
+ "size": 536928,
+ "sha256": "0fd5f1e97575f0f276a89a468f815432135e5b12003465b9d9787bdd4fafebde",
+ "notes": "・画像ファイル（PNG・JPEG・WebP・BMP）やプロジェクトを、エクスプローラーのダブルクリック・「プログラムから開く」で開けるようにしました。\n・インストーラー（デスクトップのアイコン・スタートメニュー・ファイルの関連付け付き）を用意しました。"
 }
