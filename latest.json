@@ -1,0 +1,11 @@
+{
+ "app": "PaletteStudio",
+ "version": "0.2.0",
+ "runtimeVersion": "45.2.0",
+ "file": "PaletteStudio-0.2.0.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.0.palettestudio-update",
+ "page": "https://github.com/phkdow/palette-studio-updates",
+ "size": 1467551,
+ "sha256": "7d28668ac84c9cdf2ad2cecaf3b1bca84ca8efbf935b7b4763cba35dc92080b6",
+ "notes": "・自動アップデートに対応しました（起動時と24時間ごとに確認。ヘルプ→更新を確認…でも確認できます）。\n・名前を Palette Studio（パレットスタジオ）に変更しました。"
+}
