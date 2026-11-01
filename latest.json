@@ -1,11 +1,11 @@
 {
  "app": "PaletteStudio",
- "version": "0.2.3",
+ "version": "0.3.0",
  "runtimeVersion": "45.2.0",
- "file": "PaletteStudio-0.2.3.palettestudio-update",
- "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.2.3.palettestudio-update",
+ "file": "PaletteStudio-0.3.0.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.3.0.palettestudio-update",
  "page": "https://github.com/phkdow/palette-studio-updates",
- "size": 536928,
- "sha256": "0fd5f1e97575f0f276a89a468f815432135e5b12003465b9d9787bdd4fafebde",
- "notes": "・画像ファイル（PNG・JPEG・WebP・BMP）やプロジェクトを、エクスプローラーのダブルクリック・「プログラムから開く」で開けるようにしました。\n・インストーラー（デスクトップのアイコン・スタートメニュー・ファイルの関連付け付き）を用意しました。"
+ "size": 419083,
+ "sha256": "05232abcf018010539994b6a983de736885a05d0b048f39082f474aba881f261",
+ "notes": "・リボン表示を追加しました。初めからリボン表示で、右上の「メニュー表示」または 表示 → リボン表示 で、左の道具バー＋メニューバーの従来の画面に切り替えられます。ファイル・ホーム・各メニューのタブに、アイコン付きの大きなボタンが並びます。左の道具バーの道具は「ホーム」タブに入ります。\n・リボンの右上のボタンでリボンを最小化できます。"
 }
