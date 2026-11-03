@@ -1,11 +1,11 @@
 {
  "app": "PaletteStudio",
- "version": "0.3.3",
+ "version": "0.3.4",
  "runtimeVersion": "45.2.0",
- "file": "PaletteStudio-0.3.3.palettestudio-update",
- "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.3.3.palettestudio-update",
+ "file": "PaletteStudio-0.3.4.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.3.4.palettestudio-update",
  "page": "https://github.com/phkdow/palette-studio-updates",
- "size": 585692,
- "sha256": "b224efd8615291cea66629916c8b9b99a3fddff5d27a606bd5de7c0706dd5c75",
- "notes": "・すべてのアイコンを描き直しました。ツール、リボン、メニュー、パネルのタブ、レイヤーパネルのボタンまで、約190個が色付きの手描きになりました（小さい表示用の版も同じ数あります）。\n・メニューやリボンでアイコンが無かった項目（新規・開く・保存・書き出し・元に戻す・やり直す・複製・削除・拡大縮小・バージョン情報など）にもアイコンを付けました。ワークスペースの基本・ペイント・写真・最小・リセットは、それぞれ別の絵にしました。\n・パネルのタブを、Photoshop のような箱型の見た目にしました。\n・フローティングにしたパネルにもタブを付け、並べ替えや移動ができるようにしました。ドックのグループをドラッグして浮かせたときの不具合を直しました。"
+ "size": 586359,
+ "sha256": "772151357d2ac650e5118ba7fca938d209bf212c6b69e68fbadb9d0eb587e7a4",
+ "notes": "・浮かせたパネルの窓のタブで、アイコンが大きく広がってしまう問題を直しました。\n・小さい表示のアイコンで読めなかった文字（WebP・PNG・JPG・fx など）を省いて、見やすくしました。\n・ワークスペースに、浮かせた窓の位置とタブの組み合わせも保存・復元されるようにしました。\n・レイヤーパネルのボタン（目・鍵・複製・削除・並べ替え・追加・ロック）に、読み上げ用の名前を付けました。文書タブとパネルのタブは、矢印キーとEnterで操作できます。\n・レイヤーが選ばれていないときのロック行が薄すぎて見えにくい問題を直しました。\n・ほか、アイコンの登録漏れで画面全体が落ちないようにし、スウォッチの読み込みと窓のドラッグ中の保存を整えました。"
 }
