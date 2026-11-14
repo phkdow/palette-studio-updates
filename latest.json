@@ -1,11 +1,11 @@
 {
  "app": "PaletteStudio",
- "version": "0.3.5",
+ "version": "0.3.6",
  "runtimeVersion": "45.2.0",
- "file": "PaletteStudio-0.3.5.palettestudio-update",
- "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.3.5.palettestudio-update",
+ "file": "PaletteStudio-0.3.6.palettestudio-update",
+ "url": "https://raw.githubusercontent.com/phkdow/palette-studio-updates/main/updates/PaletteStudio-0.3.6.palettestudio-update",
  "page": "https://github.com/phkdow/palette-studio-updates",
- "size": 642023,
- "sha256": "6eb8897e165d1f4344313deb844edf7a47b1c36ff1986c26421a92052a44911c",
- "notes": "・ファイルメニューに「ファイル情報…」を追加しました（Ctrl+Alt+Shift+I）。Photoshop のファイル情報と同じように、タイトル・作成者・キーワード・著作権・連絡先・IPTC・カメラの情報などを見て直せます。テンプレートの書き出し・読み込み、Raw データ（XMP）の直接編集にも対応しています。\n・「撮影日時・タイムスタンプ…」を追加しました。JPEG の撮影日時と、ファイルの作成日時・更新日時を見て直せます（Exif Changer と同じ使い方。Exif の無い JPEG にも日付を埋め込めます）。\n・「フォルダ内の日時を一括処理…」を追加しました。フォルダ内の写真の日時を、まとめて指定したりずらしたりできます。上書きせずに「Changed」フォルダへコピーすることもできます。\n・書き出し（PNG・JPEG・WebP）で、入れるメタデータを「なし／著作権／著作権と連絡先／カメラ情報以外すべて／すべて」から選べるようにしました。位置情報は「すべて」のときだけ入ります。\n・ほかのソフトで書いた日本語・欧文の情報、ImageMagick や GIMP で作った PNG の情報も読めるようにし、大きな XMP や時差の扱いを整えました。"
+ "size": 719937,
+ "sha256": "7eb4a455ab0038a95aab31781d9bbbcc54f901368ff1d406bf23da8420f482ca",
+ "notes": "・長い点検で見つかった不具合を、まとめて直しました。\n・水平・垂直の線を描いて保存すると、そのファイルが開けなくなる問題を直しました。\n・大きな画像（特に16ビット）で、ツールや結合・統合・スマートオブジェクト化がメモリ不足で全体が落ちる前に、先に「大きすぎます」とお知らせして止まるようにしました。保存しても開けなくなる大きさの画像・貼り付け・切り抜きも、先に断ります。\n・16ビットPNGが大きすぎる場合は、8ビットで開くようにしました。書き出しは、開けなくなる大きさのときは先に断ります。\n・位置がわずかに小数になったレイヤーで、塗りつぶし・削除・移動などが止まったり、1画素ずれたりする問題を直しました。\n・保存や書き出しの途中でタブを切り替えても、別の文書の情報が入ったり、保存済みの表示が戻らなかったりしないようにしました。\n・巨大な選択範囲からマスクを作ると失敗する問題、画像を統合しても失敗を知らせない問題、印刷が大きな画像で失敗する問題を直しました。"
 }
